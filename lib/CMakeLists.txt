@@ -1,0 +1,1 @@
+add_library(ConsoleWeather Weather.cpp Console.cpp)
